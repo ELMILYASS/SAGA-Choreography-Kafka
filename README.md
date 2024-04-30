@@ -37,7 +37,7 @@ This choreography example implements the Saga pattern, which orchestrates a seri
 1. **Clone the Repository**:
 
    ```bash
-   git clone [<repository-url>](https://github.com/ELMILYASS/SAGA-Choreography-Kafka.git)
+   git clone https://github.com/ELMILYASS/SAGA-Choreography-Kafka.git
    ```
 
 2. **Start Kafka**:
